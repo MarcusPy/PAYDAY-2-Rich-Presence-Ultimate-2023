@@ -1,0 +1,41 @@
+{
+	"menu_id" : "events",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_events_title",
+	"description" : "RPUS_events_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "ckr_input",
+            "title": "ckr_title",
+            "description": "how_to",
+            "callback": "ckr_save",
+            "value": "ckr"
+		},
+		{
+            "type": "input",
+            "id": "lab_input",
+            "title": "lab_title",
+            "description": "how_to",
+            "callback": "lab_save",
+            "value": "lab"
+		},
+		{
+            "type": "input",
+            "id": "prison_input",
+            "title": "prison_title",
+            "description": "how_to",
+            "callback": "prison_save",
+            "value": "prison"
+		},
+		{
+            "type": "input",
+            "id": "shn_input",
+            "title": "shn_title",
+            "description": "how_to",
+            "callback": "shn_save",
+            "value": "shn"
+		}
+	]
+}

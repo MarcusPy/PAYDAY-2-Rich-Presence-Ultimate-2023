@@ -1,0 +1,161 @@
+{
+	"menu_id" : "custom",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_custom_heists_title",
+	"description" : "RPUS_custom_heists_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "feds_xmas_input",
+            "title": "feds_xmas_title",
+            "description": "feds_xmas_title",
+            "callback": "feds_xmas_save",
+            "value": "feds_xmas"
+		},
+		{
+            "type": "input",
+            "id": "hox_xmas_input",
+            "title": "hox_xmas_title",
+            "description": "hox_xmas_title",
+            "callback": "hox_xmas_save",
+            "value": "hox_xmas"
+		},
+		{
+            "type": "input",
+            "id": "burn_input",
+            "title": "burn_title",
+            "description": "burn_title",
+            "callback": "burn_save",
+            "value": "burn"
+		},
+		{
+            "type": "input",
+            "id": "wet_input",
+            "title": "wet_title",
+            "description": "wet_title",
+            "callback": "wet_save",
+            "value": "wet"
+		},
+		{
+            "type": "input",
+            "id": "dog_input",
+            "title": "dog_title",
+            "description": "dog_title",
+            "callback": "dog_save",
+            "value": "dog"
+		},
+		{
+            "type": "input",
+            "id": "ghill_input",
+            "title": "ghill_title",
+            "description": "ghill_title",
+            "callback": "ghill_save",
+            "value": "ghill"
+		},
+		{
+            "type": "input",
+            "id": "prove_input",
+            "title": "prove_title",
+            "description": "prove_title",
+            "callback": "prove_save",
+            "value": "prove"
+		},
+		{
+            "type": "input",
+            "id": "stalk_input",
+            "title": "stalk_title",
+            "description": "stalk_title",
+            "callback": "stalk_save",
+            "value": "stalk"
+		},
+		{
+            "type": "input",
+            "id": "spawner_input",
+            "title": "spawner_title",
+            "description": "spawner_title",
+            "callback": "spawner_save",
+            "value": "spawner"
+		},
+		{
+            "type": "input",
+            "id": "funds_input",
+            "title": "funds_title",
+            "description": "funds_title",
+            "callback": "funds_save",
+            "value": "funds"
+		},
+		{
+            "type": "input",
+            "id": "south_input",
+            "title": "south_title",
+            "description": "south_title",
+            "callback": "south_save",
+            "value": "south"
+		},
+		{
+            "type": "input",
+            "id": "alley_input",
+            "title": "alley_title",
+            "description": "alley_title",
+            "callback": "alley_save",
+            "value": "alley"
+		},
+		{
+            "type": "input",
+            "id": "cargo_input",
+            "title": "cargo_title",
+            "description": "cargo_title",
+            "callback": "cargo_save",
+            "value": "cargo"
+		},
+		{
+            "type": "input",
+            "id": "raiders_input",
+            "title": "raiders_title",
+            "description": "raiders_title",
+            "callback": "raiders_save",
+            "value": "raiders"
+		},
+		{
+            "type": "input",
+            "id": "lotus_input",
+            "title": "lotus_title",
+            "description": "lotus_title",
+            "callback": "lotus_save",
+            "value": "lotus"
+		},
+		{
+            "type": "input",
+            "id": "liang_input",
+            "title": "liang_title",
+            "description": "liang_title",
+            "callback": "liang_save",
+            "value": "liang"
+		},
+		{
+            "type": "input",
+            "id": "knock_input",
+            "title": "knock_title",
+            "description": "knock_title",
+            "callback": "knock_save",
+            "value": "knock"
+		},
+		{
+            "type": "input",
+            "id": "rogue_input",
+            "title": "rogue_title",
+            "description": "rogue_title",
+            "callback": "rogue_save",
+            "value": "rogue"
+		},
+		{
+            "type": "input",
+            "id": "triad_input",
+            "title": "triad_title",
+            "description": "triad_title",
+            "callback": "triad_save",
+            "value": "triad"
+		}
+	]
+}

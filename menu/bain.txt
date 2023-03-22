@@ -1,0 +1,161 @@
+{
+	"menu_id" : "bain",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_bain_title",
+	"description" : "RPUS_bain_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "art_input",
+            "title": "art_title",
+            "description": "how_to",
+            "callback": "art_save",
+            "value": "art"
+		},
+		{
+            "type": "input",
+            "id": "rand_input",
+            "title": "rand_title",
+            "description": "how_to",
+            "callback": "rand_save",
+            "value": "rand"
+		},
+		{
+            "type": "input",
+            "id": "gold_input",
+            "title": "gold_title",
+            "description": "how_to",
+            "callback": "gold_save",
+            "value": "gold"
+		},
+		{
+            "type": "input",
+            "id": "depo_input",
+            "title": "depo_title",
+            "description": "how_to",
+            "callback": "depo_save",
+            "value": "depo"
+		},
+		{
+            "type": "input",
+            "id": "cash_input",
+            "title": "cash_title",
+            "description": "how_to",
+            "callback": "cash_save",
+            "value": "cash"
+		},
+		{
+            "type": "input",
+            "id": "alesso_input",
+            "title": "alesso_title",
+            "description": "how_to",
+            "callback": "alesso_save",
+            "value": "alesso"
+		},
+		{
+            "type": "input",
+            "id": "cross_input",
+            "title": "cross_title",
+            "description": "how_to",
+            "callback": "cross_save",
+            "value": "cross"
+		},
+		{
+            "type": "input",
+            "id": "harbour_input",
+            "title": "harbour_title",
+            "description": "how_to",
+            "callback": "harbour_save",
+            "value": "harbour"
+		},
+		{
+            "type": "input",
+            "id": "train_input",
+            "title": "train_title",
+            "description": "how_to",
+            "callback": "train_save",
+            "value": "train"
+		},
+		{
+            "type": "input",
+            "id": "town_input",
+            "title": "town_title",
+            "description": "how_to",
+            "callback": "town_save",
+            "value": "town"
+		},
+		{
+            "type": "input",
+            "id": "park_input",
+            "title": "park_title",
+            "description": "how_to",
+            "callback": "park_save",
+            "value": "park"
+		},
+		{
+            "type": "input",
+            "id": "pass_input",
+            "title": "pass_title",
+            "description": "how_to",
+            "callback": "pass_save",
+            "value": "pass"
+		},
+		{
+            "type": "input",
+            "id": "cars_input",
+            "title": "cars_title",
+            "description": "how_to",
+            "callback": "cars_save",
+            "value": "cars"
+		},
+		{
+            "type": "input",
+            "id": "dstore_input",
+            "title": "dstore_title",
+            "description": "how_to",
+            "callback": "dstore_save",
+            "value": "dstore"
+		},
+		{
+            "type": "input",
+            "id": "jewels_input",
+            "title": "jewels_title",
+            "description": "how_to",
+            "callback": "jewels_save",
+            "value": "jewels"
+		},
+		{
+            "type": "input",
+            "id": "shadow_input",
+            "title": "shadow_title",
+            "description": "how_to",
+            "callback": "shadow_save",
+            "value": "shadow"
+		},
+		{
+            "type": "input",
+            "id": "cook_input",
+            "title": "cook_title",
+            "description": "how_to",
+            "callback": "cook_save",
+            "value": "cook"
+		},
+		{
+            "type": "input",
+            "id": "gobank_input",
+            "title": "gobank_title",
+            "description": "how_to",
+            "callback": "gobank_save",
+            "value": "gobank"
+		},
+		{
+            "type": "input",
+            "id": "rvd_input",
+            "title": "rvd_title",
+            "description": "how_to",
+            "callback": "rvd_save",
+            "value": "rvd"
+		}
+	]
+}

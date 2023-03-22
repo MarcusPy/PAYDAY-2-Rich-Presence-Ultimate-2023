@@ -1,0 +1,33 @@
+{
+	"menu_id" : "hector",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_hector_title",
+	"description" : "RPUS_hector_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "fs_input",
+            "title": "fs_title",
+            "description": "how_to",
+            "callback": "fs_save",
+            "value": "fs"
+		},
+		{
+            "type": "input",
+            "id": "rats_input",
+            "title": "rats_title",
+            "description": "how_to",
+            "callback": "rats_save",
+            "value": "rats"
+		},
+		{
+            "type": "input",
+            "id": "wd_input",
+            "title": "wd_title",
+            "description": "how_to",
+            "callback": "wd_save",
+            "value": "wd"
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"menu_id" : "locke",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_locke_title",
+	"description" : "RPUS_locke_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "deal_input",
+            "title": "deal_title",
+            "description": "how_to",
+            "callback": "deal_save",
+            "value": "deal"
+		},
+		{
+            "type": "input",
+            "id": "mount_input",
+            "title": "mount_title",
+            "description": "how_to",
+            "callback": "mount_save",
+            "value": "mount"
+		},
+		{
+            "type": "input",
+            "id": "birth_input",
+            "title": "birth_title",
+            "description": "how_to",
+            "callback": "birth_save",
+            "value": "birth"
+		},
+		{
+            "type": "input",
+            "id": "crossing_input",
+            "title": "crossing_title",
+            "description": "how_to",
+            "callback": "crossing_save",
+            "value": "crossing"
+		},
+		{
+            "type": "input",
+            "id": "crystals_input",
+            "title": "crystals_title",
+            "description": "how_to",
+            "callback": "crystals_save",
+            "value": "crystals"
+		},
+		{
+            "type": "input",
+            "id": "tijuana_input",
+            "title": "tijuana_title",
+            "description": "how_to",
+            "callback": "tijuana_save",
+            "value": "tijuana"
+		},
+		{
+            "type": "input",
+            "id": "feds_input",
+            "title": "feds_title",
+            "description": "how_to",
+            "callback": "feds_save",
+            "value": "feds"
+		},
+		{
+            "type": "input",
+            "id": "brook_input",
+            "title": "brook_title",
+            "description": "how_to",
+            "callback": "brook_save",
+            "value": "brook"
+		},
+		{
+            "type": "input",
+            "id": "hell_input",
+            "title": "hell_title",
+            "description": "how_to",
+            "callback": "hell_save",
+            "value": "hell"
+		},
+		{
+            "type": "input",
+            "id": "rock_input",
+            "title": "rock_title",
+            "description": "how_to",
+            "callback": "rock_save",
+            "value": "rock"
+		},
+		{
+            "type": "input",
+            "id": "auction_input",
+            "title": "auction_title",
+            "description": "how_to",
+            "callback": "auction_save",
+            "value": "auction"
+		},
+		{
+            "type": "input",
+            "id": "white_input",
+            "title": "white_title",
+            "description": "how_to",
+            "callback": "white_save",
+            "value": "white"
+		}
+	]
+}

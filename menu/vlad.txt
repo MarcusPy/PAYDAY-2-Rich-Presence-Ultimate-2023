@@ -1,0 +1,113 @@
+{
+	"menu_id" : "vlad",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_vlad_title",
+	"description" : "RPUS_vlad_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "shock_input",
+            "title": "shock_title",
+            "description": "how_to",
+            "callback": "shock_save",
+            "value": "shock"
+		},
+		{
+            "type": "input",
+            "id": "buluc_input",
+            "title": "buluc_title",
+            "description": "how_to",
+            "callback": "buluc_save",
+            "value": "buluc"
+		},
+		{
+            "type": "input",
+            "id": "four_input",
+            "title": "four_title",
+            "description": "how_to",
+            "callback": "four_save",
+            "value": "four"
+		},
+		{
+            "type": "input",
+            "id": "goat_input",
+            "title": "goat_title",
+            "description": "how_to",
+            "callback": "goat_save",
+            "value": "goat"
+		},
+		{
+            "type": "input",
+            "id": "mall_input",
+            "title": "mall_title",
+            "description": "how_to",
+            "callback": "mall_save",
+            "value": "mall"
+		},
+		{
+            "type": "input",
+            "id": "melt_input",
+            "title": "melt_title",
+            "description": "how_to",
+            "callback": "melt_save",
+            "value": "melt"
+		},
+		{
+            "type": "input",
+            "id": "club_input",
+            "title": "club_title",
+            "description": "how_to",
+            "callback": "club_save",
+            "value": "club"
+		},
+		{
+            "type": "input",
+            "id": "martin_input",
+            "title": "martin_title",
+            "description": "how_to",
+            "callback": "martin_save",
+            "value": "martin"
+		},
+		{
+            "type": "input",
+            "id": "santa_input",
+            "title": "santa_title",
+            "description": "how_to",
+            "callback": "santa_save",
+            "value": "santa"
+		},
+		{
+            "type": "input",
+            "id": "stealing_input",
+            "title": "stealing_title",
+            "description": "how_to",
+            "callback": "stealing_save",
+            "value": "stealing"
+		},
+		{
+            "type": "input",
+            "id": "job_input",
+            "title": "job_title",
+            "description": "how_to",
+            "callback": "job_save",
+            "value": "job"
+		},
+		{
+            "type": "input",
+            "id": "xmas_input",
+            "title": "xmas_title",
+            "description": "how_to",
+            "callback": "xmas_save",
+            "value": "xmas"
+		},
+		{
+            "type": "input",
+            "id": "chca_input",
+            "title": "chca_title",
+            "description": "how_to",
+            "callback": "chca_save",
+            "value": "chca"
+		}
+	]
+}

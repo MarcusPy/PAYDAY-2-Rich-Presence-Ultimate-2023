@@ -1,0 +1,25 @@
+{
+	"menu_id" : "jimmy",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_jimmy_title",
+	"description" : "RPUS_jimmy_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "boil_input",
+            "title": "boil_title",
+            "description": "how_to",
+            "callback": "boil_save",
+            "value": "boil"
+		},
+		{
+            "type": "input",
+            "id": "station_input",
+            "title": "station_title",
+            "description": "how_to",
+            "callback": "station_save",
+            "value": "station"
+		}
+	]
+}

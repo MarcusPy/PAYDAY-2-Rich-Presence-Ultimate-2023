@@ -1,0 +1,57 @@
+{
+	"menu_id" : "jiufeng",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_jiu_title",
+	"description" : "RPUS_jiu_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "dragon_input",
+            "title": "dragon_title",
+            "description": "how_to",
+            "callback": "dragon_save",
+            "value": "dragon"
+		},
+		{
+            "type": "input",
+            "id": "sand_input",
+            "title": "sand_title",
+            "description": "how_to",
+            "callback": "sand_save",
+            "value": "sand"
+		},
+		{
+            "type": "input",
+            "id": "pent_input",
+            "title": "pent_title",
+            "description": "how_to",
+            "callback": "pent_save",
+            "value": "pent"
+		},
+		{
+            "type": "input",
+            "id": "ranc_input",
+            "title": "ranc_title",
+            "description": "how_to",
+            "callback": "ranc_save",
+            "value": "ranc"
+		},
+		{
+            "type": "input",
+            "id": "trai_input",
+            "title": "trai_title",
+            "description": "how_to",
+            "callback": "trai_save",
+            "value": "trai"
+		},
+		{
+            "type": "input",
+            "id": "corp_input",
+            "title": "corp_title",
+            "description": "how_to",
+            "callback": "corp_save",
+            "value": "corp"
+		}
+	]
+}

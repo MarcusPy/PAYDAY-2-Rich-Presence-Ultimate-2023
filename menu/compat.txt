@@ -1,0 +1,38 @@
+{
+	"menu_id" : "compat",
+	"parent_menu_id" : "advanced_options",
+	"title" : "RPUS_compat_title",
+	"description" : "RPUS_compat_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "vanhud_replace",
+			"title" : "vanhud_replace_title",
+			"description" : "vanhud_replace_desc",
+			"callback" : "vanhud_replace_clbk"
+		},
+		{
+			"type" : "divider",
+			"size" : 8
+		},
+		{
+			"type" : "button",
+			"id" : "vanhud_revert",
+			"title" : "vanhud_revert_title",
+			"description" : "vanhud_revert_desc",
+			"callback" : "vanhud_revert_clbk"
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		},
+		{
+			"type" : "button",
+			"id" : "wolfhud_revert",
+			"title" : "wolfhud_replace_title",
+			"description" : "wolfhud_replace_desc",
+			"callback" : "wolfhud_replace_clbk"
+		}
+	]
+}

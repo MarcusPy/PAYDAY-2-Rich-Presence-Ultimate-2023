@@ -1,0 +1,11 @@
+<mod name="Rich Presence Ultimate">
+    <AssetUpdates id="30885" version="Revision_13" provider="modworkshop"/>
+	
+    <Hooks>
+		<hook source_file="lib/states/menumainstate" file="RPUCore.lua"/>
+		<hook source_file="lib/managers/menumanager" file="RPUCore.lua"/>
+		<hook source_file="lib/managers/menu/menunodegui" file="RPUCore.lua"/>
+		<hook source_file="lib/managers/platformmanager" file="RichPresence.lua"/>
+    </Hooks>
+	
+</mod>

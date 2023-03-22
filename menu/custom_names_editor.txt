@@ -1,0 +1,8 @@
+{
+	"menu_id" : "custom_names_editor",
+	"parent_menu_id" : "general_options",
+	"title" : "RPUS_custom_title",
+	"description" : "RPUS_custom_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : []
+}

@@ -1,0 +1,81 @@
+{
+	"menu_id" : "classic",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_classic_title",
+	"description" : "RPUS_classic_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "dah_input",
+            "title": "dah_title",
+            "description": "how_to",
+            "callback": "dah_save",
+            "value": "dah"
+		},
+		{
+            "type": "input",
+            "id": "pig_input",
+            "title": "pig_title",
+            "description": "how_to",
+            "callback": "pig_save",
+            "value": "pig"
+		},
+		{
+            "type": "input",
+            "id": "panic_input",
+            "title": "panic_title",
+            "description": "how_to",
+            "callback": "panic_save",
+            "value": "panic"
+		},
+		{
+            "type": "input",
+            "id": "bridge_input",
+            "title": "bridge_title",
+            "description": "how_to",
+            "callback": "bridge_save",
+            "value": "bridge"
+		},
+		{
+            "type": "input",
+            "id": "taxman_input",
+            "title": "taxman_title",
+            "description": "how_to",
+            "callback": "taxman_save",
+            "value": "taxman"
+		},
+		{
+            "type": "input",
+            "id": "mercy_input",
+            "title": "mercy_title",
+            "description": "how_to",
+            "callback": "mercy_save",
+            "value": "mercy"
+		},
+		{
+            "type": "input",
+            "id": "feit_input",
+            "title": "feit_title",
+            "description": "how_to",
+            "callback": "feit_save",
+            "value": "feit"
+		},
+		{
+            "type": "input",
+            "id": "fwb_input",
+            "title": "fwb_title",
+            "description": "how_to",
+            "callback": "fwb_save",
+            "value": "fwb"
+		},
+		{
+            "type": "input",
+            "id": "heat_input",
+            "title": "heat_title",
+            "description": "how_to",
+            "callback": "heat_save",
+            "value": "heat"
+		}
+	]
+}

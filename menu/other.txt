@@ -1,0 +1,41 @@
+{
+	"menu_id" : "other",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_other_title",
+	"description" : "RPUS_other_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "tut1_input",
+            "title": "tut1_title",
+            "description": "how_to",
+            "callback": "tut1_save",
+            "value": "tut1"
+		},
+		{
+            "type": "input",
+            "id": "tut2_input",
+            "title": "tut2_title",
+            "description": "how_to",
+            "callback": "tut2_save",
+            "value": "tut2"
+		},
+		{
+            "type": "input",
+            "id": "relax_input",
+            "title": "relax_title",
+            "description": "how_to",
+            "callback": "relax_save",
+            "value": "relax"
+		},
+		{
+            "type": "input",
+            "id": "combat_input",
+            "title": "combat_title",
+            "description": "how_to",
+            "callback": "combat_save",
+            "value": "combat"
+		}
+	]
+}

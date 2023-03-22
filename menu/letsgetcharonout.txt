@@ -1,0 +1,25 @@
+{
+	"menu_id" : "charon",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_charon_title",
+	"description" : "RPUS_charon_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "tenten_input",
+            "title": "tenten_title",
+            "description": "how_to",
+            "callback": "tenten_save",
+            "value": "tenten"
+		},
+		{
+            "type": "input",
+            "id": "yacht_input",
+            "title": "yacht_title",
+            "description": "how_to",
+            "callback": "yacht_save",
+            "value": "yacht"
+		}
+	]
+}

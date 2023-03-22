@@ -1,0 +1,8 @@
+{
+	"name" : "Rich Presence Ultimate",
+	"description" : "https://modworkshop.net/mod/30885",
+	"author" : "Maintained by Marcus",
+	"contact" : "MWS comments or https://steamcommunity.com/id/MarcusFURRY/",
+	"version" : "Revision_13",
+	"image" : "logo.png",
+}

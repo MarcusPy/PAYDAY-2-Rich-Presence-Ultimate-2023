@@ -1,0 +1,57 @@
+{
+	"menu_id" : "dentist",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_dentist_title",
+	"description" : "RPUS_dentist_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "hox_input",
+            "title": "hox_title",
+            "description": "how_to",
+            "callback": "hox_save",
+            "value": "hox"
+		},
+		{
+            "type": "input",
+            "id": "hm_input",
+            "title": "hm_title",
+            "description": "how_to",
+            "callback": "hm_save",
+            "value": "hm"
+		},
+		{
+            "type": "input",
+            "id": "ggc_input",
+            "title": "ggc_title",
+            "description": "how_to",
+            "callback": "ggc_save",
+            "value": "ggc"
+		},
+		{
+            "type": "input",
+            "id": "reven_input",
+            "title": "reven_title",
+            "description": "how_to",
+            "callback": "reven_save",
+            "value": "reven"
+		},
+		{
+            "type": "input",
+            "id": "big_input",
+            "title": "big_title",
+            "description": "how_to",
+            "callback": "big_save",
+            "value": "big"
+		},
+		{
+            "type": "input",
+            "id": "diam_input",
+            "title": "diam_title",
+            "description": "how_to",
+            "callback": "diam_save",
+            "value": "diam"
+		}
+	]
+}

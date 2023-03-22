@@ -1,0 +1,8 @@
+{
+	"menu_id" : "heists",
+	"parent_menu_id" : "custom_names_editor",
+	"title" : "RPUS_heists_title",
+	"description" : "RPUS_heists_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : []
+}

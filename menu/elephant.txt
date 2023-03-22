@@ -1,0 +1,41 @@
+{
+	"menu_id" : "elephant",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_elephant_title",
+	"description" : "RPUS_elephant_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "day_input",
+            "title": "day_title",
+            "description": "how_to",
+            "callback": "day_save",
+            "value": "day"
+		},
+		{
+            "type": "input",
+            "id": "oil_input",
+            "title": "oil_title",
+            "description": "how_to",
+            "callback": "oil_save",
+            "value": "oil"
+		},
+		{
+            "type": "input",
+            "id": "frame_input",
+            "title": "frame_title",
+            "description": "how_to",
+            "callback": "frame_save",
+            "value": "frame"
+		},
+		{
+            "type": "input",
+            "id": "biker_input",
+            "title": "biker_title",
+            "description": "how_to",
+            "callback": "biker_save",
+            "value": "biker"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"menu_id" : "butcher",
+	"parent_menu_id" : "heists",
+	"title" : "RPUS_butcher_title",
+	"description" : "RPUS_butcher_desc",
+	"back_callback" : "RichPresenceUltimate_callback_save",
+	"items" : [
+		{
+            "type": "input",
+            "id": "scar_input",
+            "title": "scar_title",
+            "description": "how_to",
+            "callback": "scar_save",
+            "value": "scar"
+		},
+		{
+            "type": "input",
+            "id": "dock_input",
+            "title": "dock_title",
+            "description": "how_to",
+            "callback": "dock_save",
+            "value": "dock"
+		},
+		{
+            "type": "input",
+            "id": "forest_input",
+            "title": "forest_title",
+            "description": "how_to",
+            "callback": "forest_save",
+            "value": "forest"
+		}
+	]
+}
