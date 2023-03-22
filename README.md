@@ -1,5 +1,6 @@
 # PAYDAY-2-Rich-Presence-Ultimate-2023
 Up-to-date version of https://modworkshop.net/mod/30885
+
 Found enough courage within myself to touch this vile game once more, but only to update this mod.
 First update in over a year includes:
 - Player counter toggle
