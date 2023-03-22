@@ -1,5 +1,5 @@
 <mod name="Rich Presence Ultimate">
-    <AssetUpdates id="30885" version="Revision_14" provider="modworkshop"/>
+    <AssetUpdates id="30885" version="Revision_15" provider="modworkshop"/>
 	
     <Hooks>
 		<hook source_file="lib/states/menumainstate" file="RPUCore.lua"/>

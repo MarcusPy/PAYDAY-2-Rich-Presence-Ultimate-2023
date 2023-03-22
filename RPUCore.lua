@@ -3,7 +3,7 @@ _G.RichPresenceUltimate = {
 	save_path = SavePath,
 	save_name = "RichPresence.txt",
 	promo_text = "RICH PRESENCE ULTIMATE - REVISION NO. ",
-	revision = 14,	
+	revision = 15,	
 	settings = {
 		tag = "",
 
